@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker kill envoy-504
+podman kill envoy-504

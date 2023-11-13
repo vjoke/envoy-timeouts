@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t envoy503:v1 .
+podman build -t envoy503:v1 .
